@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PCFileMgr.Core/PCFileMgr.Core.csproj" />
+  <Project Path="PCFileMgr/PCFileMgr.csproj" />
+  <Project Path="PCFileMgr.Tests/PCFileMgr.Tests.csproj" />
+</Solution>
